@@ -21,3 +21,7 @@
     <img alt="html5" src="https://img.shields.io/badge/Haxe-FFAA00?style=for-the-badge&logo=haxe&logoColor=white"></img>
     <img alt="html5" src="https://img.shields.io/badge/Lua-224499?style=for-the-badge&logo=lua&logoColor=white"></img>
 </div>
+
+### Programador Front-end em desenvolvimento e aprimoramento.
+
+Alguns projetos meus estão disponíveis abaixo.
