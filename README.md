@@ -1,6 +1,10 @@
 # Olá, Bem vindo! 👋
 
-### sou Tarso Moreira, estudante de Desenvolvimento de Softwares
+Me chamo Tarso Moreira.
+
+Tecnico em Análise e Desenvolvimento de Sistemas.
+
+Atualmente estudante de Desenvolvimento de Software Multiplataforma.
 
 ## Redes Sociais para contato:
 
