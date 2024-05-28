@@ -14,13 +14,17 @@
     <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/Bootstrap-8833AA?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
     <img alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
+</div>
+<div style="display: inline_block">
     <img alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
     <img alt="html5" src="https://img.shields.io/badge/Java-EE0000?style=for-the-badge&logo=openjdk&logoColor=white"></img>
-    <img alt="html5" src="https://img.shields.io/badge/MongoDB-22AA44?style=for-the-badge&logo=mongodb&logoColor=white"></img>
-    <img alt="html5" src="https://img.shields.io/badge/MySQL-777777?style=for-the-badge&logo=mysql&logoColor=white"></img>
     <img alt="html5" src="https://img.shields.io/badge/Haxe-FFAA00?style=for-the-badge&logo=haxe&logoColor=white"></img>
     <img alt="html5" src="https://img.shields.io/badge/Lua-224499?style=for-the-badge&logo=lua&logoColor=white"></img>
 </div>
+<div style="display: inline_block">
+    <img alt="html5" src="https://img.shields.io/badge/MongoDB-22AA44?style=for-the-badge&logo=mongodb&logoColor=white"></img>
+    <img alt="html5" src="https://img.shields.io/badge/MySQL-777777?style=for-the-badge&logo=mysql&logoColor=white"></img>
+</div><br/>
 
 ### Programador Front-end em desenvolvimento e aprimoramento.
 
