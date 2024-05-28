@@ -1,10 +1,10 @@
 # Olá, Bem vindo! 👋
 
-Me chamo Tarso Moreira.
+Me chamo Tarso Moreira, formado em:
 
-Tecnico em Análise e Desenvolvimento de Sistemas.
+* Tecnico em Análise e Desenvolvimento de Sistemas.
 
-Atualmente estudante de Desenvolvimento de Software Multiplataforma.
+* Atualmente estudante de Desenvolvimento de Software Multiplataforma.
 
 ## Redes Sociais para contato:
 
