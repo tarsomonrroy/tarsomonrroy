@@ -2,9 +2,12 @@
 
 Me chamo Tarso Moreira, formado em:
 
-* Tecnico em Análise e Desenvolvimento de Sistemas.
+### formado em:
+![Formado](https://img.shields.io/badge/Tecnico_de_analise-de_sistemas-0071C5?style=for-the-badge&logo=intel&logoColor=555555)
 
-* Atualmente estudante de Desenvolvimento de Software Multiplataforma.
+Atualmente estudante de Desenvolvimento de Software Multiplataforma.
+
+![Formado](https://img.shields.io/badge/Desenvolvimento_de_Software-multiplataforma-00AE45?style=for-the-badge&logo=intel&logoColor=555555)
 
 ## Redes Sociais para contato:
 
@@ -24,17 +27,17 @@ Me chamo Tarso Moreira, formado em:
     <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/Bootstrap-8833AA?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
     <img alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
-</div>
+</div><br/>
 <div style="display: inline_block">
     <img alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
     <img alt="html5" src="https://img.shields.io/badge/Java-EE0000?style=for-the-badge&logo=openjdk&logoColor=white"></img>
     <img alt="html5" src="https://img.shields.io/badge/Haxe-FFAA00?style=for-the-badge&logo=haxe&logoColor=white"></img>
     <img alt="html5" src="https://img.shields.io/badge/Lua-224499?style=for-the-badge&logo=lua&logoColor=white"></img>
-</div>
+</div><br/>
 <div style="display: inline_block">
     <img alt="html5" src="https://img.shields.io/badge/MongoDB-22AA44?style=for-the-badge&logo=mongodb&logoColor=white"></img>
     <img alt="html5" src="https://img.shields.io/badge/MySQL-777777?style=for-the-badge&logo=mysql&logoColor=white"></img>
-</div><br/>
+</div>
 
 ### Programador Front-end em desenvolvimento e aprimoramento.
 
