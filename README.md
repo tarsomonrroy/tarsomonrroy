@@ -5,9 +5,9 @@ Me chamo Tarso Moreira, formado em:
 ### formado em:
 ![Formado](https://img.shields.io/badge/Tecnico_de_analise-de_sistemas-0071C5?style=for-the-badge&logo=intel&logoColor=555555)
 
-Atualmente estudante de Desenvolvimento de Software Multiplataforma.
+Atualmente estudante de:
 
-![Formado](https://img.shields.io/badge/Desenvolvimento_de_Software-multiplataforma-00AE45?style=for-the-badge&logo=intel&logoColor=555555)
+![Estudo](https://img.shields.io/badge/Desenvolvimento_de_Software-multiplataforma-00AE45?style=for-the-badge&logo=intel&logoColor=555555)
 
 ## Redes Sociais para contato:
 
