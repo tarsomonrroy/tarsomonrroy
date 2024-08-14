@@ -2,7 +2,7 @@
 
 Me chamo Tarso Moreira, tenho 21 anos e sou programador.
 
-### formado em:
+### formado como:
 ![Formado](https://img.shields.io/badge/Tecnico_de_analise-de_sistemas-0071C5?style=for-the-badge&logo=intel&logoColor=555555)
 
 ### Atualmente estudante de:
