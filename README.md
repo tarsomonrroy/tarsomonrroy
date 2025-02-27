@@ -1,4 +1,4 @@
-# Olá, Bem vindo! 👋
+# Olá! 👋
 
 Me chamo Tarso Moreira, tenho 21 anos e sou programador.
 
