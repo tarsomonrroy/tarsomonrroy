@@ -19,7 +19,7 @@ Me chamo Tarso Moreira, tenho 21 anos e sou programador.
 
 ## Status:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bioxcis&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarsomonrroy&show_icons=true&theme=synthwave)
 
 ### Tecnologias que uso e estou aprendendo:
 
