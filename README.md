@@ -49,9 +49,13 @@ I have a degree in **Systems Analysis and Development** and am currently pursuin
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=tarsomonrroy&show_icons=true&theme=radical)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=tarsomonrroy&theme=radical)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tarsomonrroy&layout=compact&theme=radical)
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=tarsomonrroy&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=tarsomonrroy&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tarsomonrroy&layout=compact&theme=tokyonight" />
 </p>
 
 ---
